@@ -12,7 +12,7 @@ I am a Computer Science student interested in Artificial Intelligence, Machine L
 
 ## 🛠️ Tech Stack
 
-**Languages:** C, Python, Java, JavaScript, TypeScript
+**Languages:** C, Python, Java
 
 **AI/ML:** NumPy, Pandas, Matplotlib
 
